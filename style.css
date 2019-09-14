@@ -1,0 +1,88 @@
+.body {
+    background-color: #d1ecec;
+    font-size: 10px;
+}
+
+.name {
+    border-style: solid;
+    border-color: #4aaaae;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaae;
+    color: white;
+    margin: .5%;
+    margin-top: 0px;
+    margin-left: 25%;
+    width: 10%;
+    border: 10px;
+    padding: 15px;
+    float: left;
+}
+
+.apc {
+    border-style: none;
+    margin-left: 55%;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    color: gray;
+}
+
+.Portfolio {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #f1f8f8;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    height: 400px;
+    float: center;
+    font-size: 20px;
+    outline-style: solid;
+    margin-left: 25%;
+    padding-top: 0%;
+    margin-top: 5%;
+    margin-right: 25%;
+    background-color: #95dbdd;
+    font-style: oblique;
+    
+}
+
+.imagesandport {
+    position: relative;
+    display: inline-block;
+}
+.text-box {
+    position: absolute;    
+    height: 100%;
+    text-align: center;    
+    width: 100%;
+}
+
+h6 {
+   display: inline-block;
+   font-size: 20px;
+   color: #FFF;   
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  padding-left: 25%;
+}
+
+.forestfire {
+    position: relative;
+    display: inline-block;
+}
+.text-boxforff {
+    position: absolute;    
+    height: 100%;
+    text-align: center;    
+    width: 100%;
+}
+   
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  padding-left: 25%;
+}
